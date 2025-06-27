@@ -30,7 +30,7 @@ Since this project was created using no-code tools, deployment and usage instruc
 
 ## Run the Application
 
-You can try the live application here: [pjmapclg2.netlify.app/](#)
+You can try the live application here: [(https://pjmapclg2.netlify.app/)]
 <!-- Replace the '#' above with your actual deployed app link -->
 
 ## Contributing
