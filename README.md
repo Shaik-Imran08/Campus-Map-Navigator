@@ -30,7 +30,7 @@ Since this project was created using no-code tools, deployment and usage instruc
 
 ## Run the Application
 
-You can try the live application here: [Campus Map Navigator - Launch App](#)  
+You can try the live application here: [pjmapclg2.netlify.app/](#)  
 <!-- Replace the '#' above with your actual deployed app link -->
 
 ## Contributing
